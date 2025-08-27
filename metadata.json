@@ -1,0 +1,5 @@
+{
+  "name": " Calculadora Elétrica Residencial 2",
+  "description": "Uma aplicação para dimensionar projetos elétricos residenciais com base na norma brasileira NBR 5410. Calcule iluminação, tomadas, circuitos e disjuntores para cada ambiente da sua casa.",
+  "requestFramePermissions": []
+}
